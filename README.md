@@ -11,3 +11,5 @@ and we have to convert these topics from ignition topic to ros2 topic by "ign_ro
 Instead of this method, I decide to make independent ros2 thread that contains plugin data into plugin so that "ign_ros2" is not needed.
 
 Detail description will be presented below.
+
+TBW soon
